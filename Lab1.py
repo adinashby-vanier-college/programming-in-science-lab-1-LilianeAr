@@ -17,5 +17,5 @@ def input_output():
     print("Your height is " + height + " meters.")
 
     
-hello_world()
-input_output()
+# hello_world()
+# input_output()
